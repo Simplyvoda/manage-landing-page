@@ -8,7 +8,6 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
   - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
@@ -30,11 +29,6 @@ Users should be able to:
   - The `input` field is empty
   - The email address is not formatted correctly
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 For this project, i designed it with mobile/small screens in mind first before considering larger screens. I tried my hand on Taiilwind CSS for this project. The project was built with the use of HTML, Tailwind CSS and vanilla Javascript. CSS flexbos property was used for most of the project.
